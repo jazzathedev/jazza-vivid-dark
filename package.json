@@ -2,8 +2,13 @@
 	"name": "jazza-vivid-dark",
 	"displayName": "Jazza's Vivid Dark Theme",
 	"description": "A lovely dark theme with nice vivid colours",
-	"author": { "name": "Jazza" },
-	"repository": { "type": "git", "url": "https://github.com/jazzathedev/jazza-vivid-dark.git" },
+	"author": {
+		"name": "Jazza"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jazzathedev/jazza-vivid-dark.git"
+	},
 	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.125.0"
@@ -18,5 +23,8 @@
 			}
 		]
 	},
-	"license": "GPL-3.0-or-later"
+	"license": "GPL-3.0-or-later",
+	"devDependencies": {
+		"@vscode/vsce": "^3.9.2"
+	}
 }
