@@ -17,5 +17,6 @@
 				"path": "./themes/Jazza Vivid-Dark-color-theme.json"
 			}
 		]
-	}
+	},
+	"license": "GPL-3.0-or-later"
 }
