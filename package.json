@@ -1,0 +1,19 @@
+{
+	"name": "jazza-vivid-dark",
+	"displayName": "Jazza's Vivid Dark Theme",
+	"description": "A lovely dark theme with nice vivid colours",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.125.0"
+	},
+	"categories": ["Themes"],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Jazza Vivid-Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Jazza Vivid-Dark-color-theme.json"
+			}
+		]
+	}
+}
